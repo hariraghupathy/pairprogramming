@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6/dhSDx03OtfQGsoMS/EQYdTKzer7T0USgHbVWUqGOS/QD2HngI6y9ucixClkAgkHs2coL55JKnx6ojJrxzuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hari Krishnan\\Desktop\\Office\\Interview\\Pair Programming\\MarsRover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hari Krishnan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Hari Krishnan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
